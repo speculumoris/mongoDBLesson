@@ -1,0 +1,68 @@
+[{
+  "_id": {
+    "$oid": "63a20aec5859e8d0d61f5fbb"
+  },
+  "price": 240,
+  "name": "TV"
+},{
+  "_id": {
+    "$oid": "63a20baf7a2e963bf1c71610"
+  },
+  "price": 330,
+  "name": "TV"
+},{
+  "_id": {
+    "$oid": "63a20c7a7a2e963bf1c71613"
+  },
+  "name": "Radio",
+  "price": 75,
+  "marka": "Phillips"
+},{
+  "_id": {
+    "$oid": "63a20cd17a2e963bf1c71615"
+  },
+  "name": "Radio",
+  "price": 90
+},{
+  "_id": {
+    "$oid": "63a20ced7a2e963bf1c71616"
+  },
+  "name": "Radio",
+  "price": 95,
+  "marka": "Phillips"
+},{
+  "_id": {
+    "$oid": "63a20f9b5859e8d0d61f5fbc"
+  },
+  "name": "ipod",
+  "price": 111
+},{
+  "_id": {
+    "$oid": "63a20f9b5859e8d0d61f5fbd"
+  },
+  "name": "iphonde14"
+},{
+  "_id": {
+    "$oid": "63a20f9b5859e8d0d61f5fbe"
+  },
+  "name": "Radio",
+  "price": 53,
+  "tax": 10
+},{
+  "_id": {
+    "$oid": "63a211b15859e8d0d61f5fbf"
+  },
+  "name": "iron",
+  "tax": 12
+},{
+  "_id": {
+    "$oid": "63a213115859e8d0d61f5fc0"
+  },
+  "price": 123
+},{
+  "_id": {
+    "$oid": "63a213115859e8d0d61f5fc1"
+  },
+  "name": "radio",
+  "tax": 0
+}]
