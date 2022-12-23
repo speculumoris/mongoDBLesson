@@ -71,7 +71,7 @@ db.electronics.find({},{"price":1,"name":1,"_id":0})
 
 23//yukardaki soruyu price değerine göre sıralıyalım
 db.electronics.find({} , {"price":1,"name":1,"_id":0}).sort({"price":1})
-//Trick: sırt metodunda parametre olarak -1 girilirse büyükten küçüğe doğru sıralar, 1 olursa natural order yani küçükden büyüğe sıralar
+//Trick: sort metodunda parametre olarak -1 girilirse büyükten küçüğe doğru sıralar, 1 olursa natural order yani küçükden büyüğe sıralar
 veya 
 db.electronics.find({} , {"price":1,"name":1,"_id":0}).sort({"price"})
 
