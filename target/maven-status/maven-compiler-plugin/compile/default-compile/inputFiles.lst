@@ -1,0 +1,8 @@
+/Users/yusufsefabayindir/IdeaProjects/Mongo-Demo/src/main/java/com/alibo/mongodemo/MongoDemoApplication.java
+/Users/yusufsefabayindir/IdeaProjects/Mongo-Demo/src/main/java/com/alibo/mongodemo/product/Category.java
+/Users/yusufsefabayindir/IdeaProjects/Mongo-Demo/src/main/java/com/alibo/mongodemo/product/Controller.java
+/Users/yusufsefabayindir/IdeaProjects/Mongo-Demo/src/main/java/com/alibo/mongodemo/product/Product.java
+/Users/yusufsefabayindir/IdeaProjects/Mongo-Demo/src/main/java/com/alibo/mongodemo/product/ProductDto.java
+/Users/yusufsefabayindir/IdeaProjects/Mongo-Demo/src/main/java/com/alibo/mongodemo/product/ProductMapper.java
+/Users/yusufsefabayindir/IdeaProjects/Mongo-Demo/src/main/java/com/alibo/mongodemo/product/ProductRepository.java
+/Users/yusufsefabayindir/IdeaProjects/Mongo-Demo/src/main/java/com/alibo/mongodemo/product/ProductService.java

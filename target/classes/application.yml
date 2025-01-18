@@ -1,0 +1,11 @@
+
+spring:
+  data:
+    mongodb:
+      username: yusufo
+      password: yusufo
+      host: localhost
+      port: 27017
+      database: MongoLearn
+      authentication-database: admin
+
