@@ -33,7 +33,7 @@ public class Controller {
     @DeleteMapping("/{id}")
     public ResponseEntity<Void> delete(@PathVariable String id){
         productService.delete(id);
-        return ResponseEntity.accepted().build();
+        return ResponseEntity.ok().build();
     }
 
 }
